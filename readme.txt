@@ -1,5 +1,5 @@
 === CSSrefresh ===
-Contributors: cubetech.ch
+Contributors: cubetech, chrigu99
 Donate link: http://www.cubetech.ch
 Tags: wordpress plugin, plugin, css, reload, refresh, css refresh, css load, instant
 Requires at least: 3.2
