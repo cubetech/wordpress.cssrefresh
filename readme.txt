@@ -31,7 +31,7 @@ soon
 
 = How can I support you? =
 
-Contribute at GitHub (https://github.com/cubetech/cssrefresh)
+Contribute at [GitHub - cubetech/cssrefresh](https://github.com/cubetech/cssrefresh)
 
 = What is the plugin page?  =
 
