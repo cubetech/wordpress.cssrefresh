@@ -5,6 +5,7 @@ Tags: wordpress plugin, plugin, css, reload, refresh, css refresh, css load, ins
 Requires at least: 3.2
 Tested up to: 3.4.1
 Stable tag: "0.0.1"
+License: GPLv2
 
 Small plugin for web developers, that monitors and refresh your css immediately after saving it
 
