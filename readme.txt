@@ -6,41 +6,22 @@ Requires at least: 3.2
 Tested up to: 3.4.1
 Stable tag: "0.0.1"
 
-Small plugin for web developers, which refresh your css immediately after saving it
+Small plugin for web developers, that monitors and refresh your css immediately after saving it
 
 == Description ==
 
-STILL BETA Use this emtpy wordpress plugin template to build your own.
-
-Considering all the advices given in http://codex.wordpress.org/Writing_a_Plugin, http://codex.wordpress.org/Creating_Options_Pages and http://planetozh.com/blog/2009/09/top-10-most-common-coding-mistakes-in-wordpress-plugins/
-
-Every important point will have it's own page to explain.
-
-= Including: =
-* multi language ability
-* uninstall routine
-* data delete routine (avoid orphaned data)
-* coding advices
-* security aspects (validating user inputs, nonces)
-* external third party stuff (Ajax, CSS, Javascript)
-* shortcode
-* Wordpress scheduler ("cronjob")
-* logfiles
-* capabilities
+CSSrefresh is a small, unobstructive plugin that monitors the CSS-files included in your webpage. As soon as you save a CSS-file, the changes are directly implemented, without having to refresh your browser.
 
 == Installation ==
 
 ONLY USE THIS FOR LOCAL DEVELOPMENT
-1. Upload EPT Empty Plugin Template  to the `/wp-content/plugins/` directory
+1. Upload CSSrefresh to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Adjust settings
 
 == Remove plugin ==
 
 1. Deactivate plugin through the 'Plugins' menu in WordPress
 2. Delete plugin through the 'Plugins' menu in WordPress
-
-It's best to use the build in delete function of wordpress. That way all the stored data will be removed and no orphaned data will stay.
 
 == Screenshots ==
 
@@ -48,23 +29,17 @@ soon
 
 == Frequently Asked Questions ==
 
-soon
-
 = How can I support you? =
 
-Post a comment on [EPT Empty Plugin Template ](http://1manfactory.com/ept)
+Contribute at GitHub (https://github.com/cubetech/cssrefresh)
 
 = What is the plugin page?  =
 
-[EPT Empty Plugin Template ](http://1manfactory.com/ept)
+[CSSrefresh](http://www.cubetech.ch/products/cssrefresh)
 
-= Do you have other plugins?  =
+= In my theme the cssrefresh.js isn't loaded. How to fix?  =
 
-Check out my other [Wordpress Plugins](http://wordpress.org/extend/plugins/profile/1manfactory)
-
-= Where do I post my feedback? =
-
-Post it at the plugin page: [EPT Empty Plugin Template ](http://1manfactory.com/ept)
+Make sure your theme uses the wp_footer() function. Else the js isn't loaded.
 
 == Upgrade Notice ==
 
@@ -72,23 +47,17 @@ Just do a normal upgrade.
 
 == Changelog ==
 
-= 0.1.1.2 (03.03.2011) =
-* adding submenus
-
-= 0.1.1.1 (24.02.2011) =
-* small bugfix
-* testing on Wordpress 3.1
-
-= 0.1.1 (22.02.2011) =
-* logfile handling
-
-= 0.1 (17.02.2011) =
+= 0.0.1 (20.08.2012) =
 * first version
 
-== Upgrade Notice ==
+== cubetech ==
 
-Just do a normal upgrade.
+cubetech GmbH is a modern web factory located at Bern, Switzerland.
 
-== To do ==
+Come and [visit us](http://www.cubetech.ch)!
 
-More translations. Does someone wants to help?
+Topics which driving us?
+
+* [Webdesign](http://www.cubetech.ch/dienstleistungen/websites-der-extraklasse/)
+* [Infrastructure](http://www.cubetech.ch/dienstleistungen/infrastruktur-planung-und-support/)
+* [VoIP / Starface](http://www.cubetech.ch/dienstleistungen/voip-mehr-als-ein-telefon/)
