@@ -3,8 +3,8 @@ Contributors: cubetech, chrigu99
 Donate link: http://www.cubetech.ch
 Tags: wordpress plugin, plugin, css, reload, refresh, css refresh, css load, instant
 Requires at least: 3.2
-Tested up to: 3.4.1
-Stable tag: "0.0.1"
+Tested up to: 3.5
+Stable tag: "1.0"
 License: GPLv2
 
 Small plugin for web developers, that monitors and refresh your css immediately after saving it
@@ -47,6 +47,9 @@ Make sure your theme uses the wp_footer() function. Else the js isn't loaded.
 Just do a normal upgrade.
 
 == Changelog ==
+
+= 1.0 =
+* stable version
 
 = 0.0.1 (20.08.2012) =
 * first version
