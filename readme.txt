@@ -48,7 +48,10 @@ Just do a normal upgrade.
 
 == Changelog ==
 
-= 1.0.2
+= 1.0.3 =
+* Fixed change log
+
+= 1.0.2 =
 * Some mess with tagging versions
 
 = 1.0 =
