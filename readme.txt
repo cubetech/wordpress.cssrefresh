@@ -4,7 +4,7 @@ Donate link: http://www.cubetech.ch
 Tags: wordpress plugin, plugin, css, reload, refresh, css refresh, css load, instant
 Requires at least: 3.2
 Tested up to: 3.5
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 
 Small plugin for web developers, that monitors and refresh your css immediately after saving it
